@@ -1,7 +1,7 @@
 const informations = [
-    {tasks: 6, complete: 4, color: "red"},
+    {tasks: 6, complete: 6, color: "red"},
     {tasks: 6, complete: 1, color: "green"},
-    {tasks: 6, complete: 3, color: "blue"},
+    {tasks: 6, complete: 4, color: "blue"},
 ];
 
 const barLocation = document.getElementById("progress-bars");
